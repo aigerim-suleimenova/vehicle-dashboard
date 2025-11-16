@@ -1,5 +1,3 @@
-# vehicle-dashboard
-
 # Vehicle Dashboard
 
 A small **React + NextJS + TypeScript project** that demonstrates a dashboard for managing vehicles in a car subscription company. Built to showcase hands-on coding skills, component design, state management, and data visualization.
